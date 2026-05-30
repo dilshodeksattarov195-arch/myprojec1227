@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggeruave",
+        "uuid": 2409828,
+        "checksum": "0uamw9"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
